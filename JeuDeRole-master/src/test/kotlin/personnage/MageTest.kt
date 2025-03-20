@@ -1,0 +1,3 @@
+package personnage
+
+class MageTest
