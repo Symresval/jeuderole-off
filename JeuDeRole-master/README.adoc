@@ -4,7 +4,7 @@
 :toclevels: 4
 
 == Projet 
-projet réalisé par Belkacem Nassim, Gérance Lény et Ben Boubaker Sheinez
+projet réalisé par Ichalalene Samy, Gérance Lény et Ben Boubaker Sheinez
 
 === présentation
 
